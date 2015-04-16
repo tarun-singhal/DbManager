@@ -9,7 +9,7 @@ Feature:
 * Nice execution response, where you can find the no of query executed
 * INI File mechanism to process sql 
 
-Steps to Use of the this app
+Steps to Use this app
 
 Step 1: Provide your database credential inside the db.ini file. which is ease to read.
 
