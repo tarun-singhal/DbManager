@@ -2,6 +2,13 @@
 DbManager is basically used to update your running database without happer your running data.
 As well you can manage the executed sql's log.
 
+Feature:
+* Ability to update multiple database
+* Log creation of the executed sql
+* Data updates without disturb of the old records
+* Nice execution response, where you can find the no of query executed
+* INI File mechanism to process sql 
+
 * Steps to Use of the this app
 
 Step 1: Provide your database credential inside the db.ini file. which is ease to read.
